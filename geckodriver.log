@@ -1,0 +1,205 @@
+1648259860052	geckodriver	INFO	Listening on 127.0.0.1:53873
+1648259860556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60237" "-no-remote" "-profile" "/tmp/rust_mozprofile7zGQMG"
+1648259861049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7zGQMG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60237/devtools/browser/a87eff6d-0958-4cdb-8a6d-7de6c5e0d0af
+1648259863624	Marionette	INFO	Listening on port 35691
+1648259863698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648260149858	Marionette	INFO	Stopped listening on port 35691
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1648260150028	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1648260152830	geckodriver	INFO	Listening on 127.0.0.1:36355
+1648260153327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51627" "-no-remote" "-profile" "/tmp/rust_mozprofileedqGUC"
+1648260153882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileedqGUC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51627/devtools/browser/2e24ce79-6798-4087-8ef2-f4f3f56c819b
+1648260156207	Marionette	INFO	Listening on port 37357
+1648260156275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648260175850	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "__INTERCOM_REACT_DEV_TOOLS__" on cross-origin object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1648260186337	geckodriver	INFO	Listening on 127.0.0.1:60293
+1648260186841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43637" "-no-remote" "-profile" "/tmp/rust_mozprofilee7cm2w"
+1648260187390	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee7cm2w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43637/devtools/browser/c87bdd86-17a6-4d45-9093-de3582b75769
+1648260190018	Marionette	INFO	Listening on port 38849
+1648260190072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648260204054	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://rafay.co/ line 1 > injectedScript, line 2: TypeError: hbspt.forms.create is not a function
+JavaScript error: https://assets-global.website-files.com/5f8dd056c51c1d04c3eaa497/js/ramp-rebrand.ffeaa0d04.js, line 7: TypeError: s is not a function
+JavaScript error: https://assets.ramp.com/webflow/customWidgets.js, line 86: ReferenceError: $ is not defined
+JavaScript error: https://ramp.com/ line 1 > injectedScript, line 4: ReferenceError: $ is not defined
+JavaScript error: https://ramp.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://ramp.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://ramp.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://ramp.com/ line 1 > injectedScript, line 8: ReferenceError: $ is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1648260255896	geckodriver	INFO	Listening on 127.0.0.1:44935
+1648260255903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRk098L"
+1648260256346	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRk098L/search.json.mozlz4", (void 0)))
+1648260258435	Marionette	INFO	Listening on port 46749
+1648260258565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648260275937	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://widget.intercom.io/widget/ikgdh6ph, line 1: TypeError: document.body is null
+JavaScript error: https://rafay.co/ line 1 > injectedScript, line 2: TypeError: hbspt.forms.create is not a function
+JavaScript error: https://ramp.com/ line 1 > injectedScript, line 1: ReferenceError: gaconnector2 is not defined
+JavaScript error: https://client-registry.mutinycdn.com/personalize/client/7a656ec67ebfce09.js, line 3: ChunkLoadError: Loading chunk 6 failed.
+(error: https://client.mutinycdn.com/mutiny-client/6.2.10.5.js)
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:918:3
+
+1648260591245	geckodriver	INFO	Listening on 127.0.0.1:46499
+1648260591252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVEz4WF"
+1648260591683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVEz4WF/search.json.mozlz4", (void 0)))
+1648260593909	Marionette	INFO	Listening on port 44307
+1648260593990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648260622106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "toString" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://rafay.co/ line 1 > injectedScript, line 2: TypeError: hbspt.forms.create is not a function
+JavaScript error: https://ramp.com/ line 1 > injectedScript, line 1: ReferenceError: gaconnector2 is not defined
+JavaScript error: https://client-registry.mutinycdn.com/personalize/client/7a656ec67ebfce09.js, line 3: ChunkLoadError: Loading chunk 6 failed.
+(error: https://client.mutinycdn.com/mutiny-client/6.2.10.5.js)
+1648260637695	Marionette	INFO	Stopped listening on port 44307
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648260637965	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648260786828	geckodriver	INFO	Listening on 127.0.0.1:38011
+1648260786833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52771" "-no-remote" "-profile" "/tmp/rust_mozprofileUzPwv0"
+1648260787368	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUzPwv0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52771/devtools/browser/6acedc64-d41e-46c3-9b0d-569b1dcc1334
+1648260789957	Marionette	INFO	Listening on port 35639
+1648260790098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648260791213	Marionette	INFO	Stopped listening on port 35639
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648260791835	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1648260801213	geckodriver	INFO	Listening on 127.0.0.1:36381
+1648260801219	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehqTyS8"
+1648260801645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehqTyS8/search.json.mozlz4", (void 0)))
+1648260803963	Marionette	INFO	Listening on port 45103
+1648260804057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://widget.intercom.io/widget/ikgdh6ph, line 1: TypeError: document.body is null
+JavaScript error: , line 0: uncaught exception: Object
+1648261296870	geckodriver	INFO	Listening on 127.0.0.1:53489
+1648261296877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePjjM0L"
+1648261297314	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePjjM0L/search.json.mozlz4", (void 0)))
+1648261299514	Marionette	INFO	Listening on port 39567
+1648261299607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1648261556764	geckodriver	INFO	Listening on 127.0.0.1:48315
+1648261556771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegKOoTz"
+1648261557211	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegKOoTz/search.json.mozlz4", (void 0)))
+1648261559383	Marionette	INFO	Listening on port 35809
+1648261559444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1648261606465	geckodriver	INFO	Listening on 127.0.0.1:52411
+1648261606470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileLt88qw"
+1648261606905	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLt88qw/search.json.mozlz4", (void 0)))
+1648261609681	Marionette	INFO	Listening on port 42245
+1648261609773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1648261877269	geckodriver	INFO	Listening on 127.0.0.1:55407
+1648261877274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNVXtNs"
+1648261877757	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNVXtNs/search.json.mozlz4", (void 0)))
+1648261880207	Marionette	INFO	Listening on port 42171
+1648261880310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648262449119	geckodriver	INFO	Listening on 127.0.0.1:48035
+1648262449124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57983" "-no-remote" "-profile" "/tmp/rust_mozprofile67xGhd"
+1648262449574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile67xGhd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57983/devtools/browser/0cd26f8c-be05-4b5b-a6c8-1a4687f639f9
+1648262451994	Marionette	INFO	Listening on port 37113
+1648262452073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1648262452888	Marionette	INFO	Stopped listening on port 37113
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1648262453467	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1648262462123	geckodriver	INFO	Listening on 127.0.0.1:56455
+1648262462130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilew0XYro"
+1648262462556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew0XYro/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1648262464980	Marionette	FATAL	Remote protocol server failed to start: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIServerSocket.asyncListen]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: chrome://remote/content/marionette/server.js :: set acceptConnections :: line 89"  data: no] Stack trace: set acceptConnections()@server.js:89
+start()@server.js:114
+init/<()@jar:file:///usr/lib/firefox-esr/omni.ja!/components/marionette.js:269

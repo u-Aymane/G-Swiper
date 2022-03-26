@@ -1,0 +1,4 @@
+gspread
+requests
+keyboard
+selenium
