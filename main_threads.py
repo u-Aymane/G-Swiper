@@ -85,7 +85,7 @@ def Tinder(choice, website, sheet_url, worksheet):
         wk.update_cell(r.row, first_empty, choice)
 
 if __name__ == '__main__':
-    driver = webdriver.Firefox(executable_path='geckodriver')
+    driver = webdriver.Firefox(executable_path='./geckodriver')
     gsheet = input('Google Sheet URL (Make the sheet PUBLIC): ')
     worksheets = get_worksheets(gsheet)
     print('Please choose a number:')
