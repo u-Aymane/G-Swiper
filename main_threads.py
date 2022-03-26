@@ -98,7 +98,7 @@ if __name__ == '__main__':
         website, company, description = all_data['Websites'][i], all_data['Companies'][i], all_data['Description'][i]
         try:
             os.system('clear')
-            print(f'Company name: {company}')
+            print(f'Company name: {company}\n\n')
             print(f'Description: {description}')
             driver.get(f"http://{website}")
             c = input(f'\n\nKeep (Leave it blank) - Remove (Type r) and hit Enter: ')
