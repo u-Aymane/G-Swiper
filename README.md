@@ -22,6 +22,11 @@ mv service_account.json ~/.config/gspread/service_account.json
 ```python
 python3 main_threads.py
 ```
+## Screenshots
+
+![Menu](screenshots/Screenshot_1.png)
+
+![Working..](screenshots/Screenshot_2.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
