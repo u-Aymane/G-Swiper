@@ -100,8 +100,8 @@ if __name__ == '__main__':
             os.system('clear')
             print(f'Company name: {company}')
             print(f'Description: {description}')
-            c = input(f'\n\nKeep (Leave it blank) - Remove (Type r) and hit Enter: ')
             driver.get(f"http://{website}")
+            c = input(f'\n\nKeep (Leave it blank) - Remove (Type r) and hit Enter: ')
             if c == "r":
                 T = threading.Thread(target=Tinder, args=['Remove', website, gsheet, worksheets[choice]])
                 T.setDaemon(True)
