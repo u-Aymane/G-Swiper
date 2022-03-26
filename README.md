@@ -5,6 +5,8 @@ G-Swiper is a repository that helps you filter your sheets faster.
 ## Installation
 
 ```bash
+pip install -r requirements.txt
+
 pip install requests
 pip install selenium
 pip install gspread
