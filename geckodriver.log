@@ -7,3 +7,434 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: https://www.zuar.com/, line 1378: TypeError: document.getElementById(...) is null
 JavaScript error: https://www.zuar.com/js/script.min.js, line 1: TypeError: Rt.mfp is undefined
 JavaScript error: https://www.zuar.com/js/script.min.js, line 1: TypeError: $(...).slick is not a function
+1648452852615	geckodriver	INFO	Listening on 127.0.0.1:52573
+1648452853622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5Ak63c"
+1648452855548	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5Ak63c/search.json.mozlz4", (void 0)))
+1648452860129	Marionette	INFO	Listening on port 37517
+1648452860230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.zuar.com/, line 1378: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.zuar.com/js/script.min.js, line 1: TypeError: Rt.mfp is undefined
+JavaScript error: https://www.zuar.com/js/script.min.js, line 1: TypeError: $(...).slick is not a function
+JavaScript error: https://www.zontec-spc.com/, line 26: TypeError: el is null
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/2uoiJ4hP3NUoP9v_eBNfU6CR/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/client/framework/devtools.js, line 757: TypeError: inspector.inspectorFront is undefined
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.zontec-spc.com/wp-content/cache/autoptimize/css/autoptimize_4e4e24062f047ba9c1575a8c5f5dc49d.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.zontec-spc.com/wp-content/cache/autoptimize/css/autoptimize_af95398813ccba4cddb15b1f713a83e2.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.zontec-spc.com/wp-content/cache/autoptimize/css/autoptimize_single_2701ee0aab03ea6c3f3fe9645ea7ae0f.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.zontec-spc.com/wp-includes/css/dashicons.min.css without a browsingContextID set
+console.warn: "Resource  of root-node was not found."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+JavaScript error: https://www.zontec-spc.com/, line 26: TypeError: el is null
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.error: "Task cancelled"
+console.warn: "Resource  of root-node was not found."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+JavaScript error: https://www.zontec-spc.com/, line 26: TypeError: el is null
+console.warn: "Already stopped listening to server sent events for this window."
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+1648453046556	geckodriver	INFO	Listening on 127.0.0.1:49201
+1648453046561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSwiqlW"
+1648453047073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSwiqlW/search.json.mozlz4", (void 0)))
+1648453050148	Marionette	INFO	Listening on port 38317
+1648453050258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.zuar.com/, line 1378: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.zuar.com/js/script.min.js, line 1: TypeError: Rt.mfp is undefined
+JavaScript error: https://www.zuar.com/js/script.min.js, line 1: TypeError: $(...).slick is not a function
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://www.zontec-spc.com/, line 26: TypeError: el is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1648453491625	geckodriver	INFO	Listening on 127.0.0.1:38675
+1648453491629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQkHTGd"
+1648453492331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQkHTGd/search.json.mozlz4", (void 0)))
+1648453496659	Marionette	INFO	Listening on port 44173
+1648453496707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.zuar.com/, line 1378: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.zuar.com/js/script.min.js, line 1: TypeError: Rt.mfp is undefined
+JavaScript error: https://www.zuar.com/js/script.min.js, line 1: TypeError: $(...).slick is not a function
+JavaScript error: https://www.zoomifier.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2, line 2: TypeError: jQuery is undefined
+JavaScript error: https://www.zoomifier.com/wp-content/cache/min/1/bootstrap/3.3.7/js/bootstrap.min.js?ver=1647865572, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.zoomifier.com/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=1.7.3.1574142882, line 4: TypeError: a is not a function
+JavaScript error: https://www.zoomifier.com/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=1.7.3.1574142882, line 1: TypeError: jQuery is not a function
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to get property "href" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://js.intercomcdn.com/frame.40e2ad06.js, line 1: SecurityError: Permission denied to access property "requestAnimationFrame" on cross-origin object
+JavaScript error: https://www.zontec-spc.com/, line 26: TypeError: el is null
+JavaScript error: , line 0: uncaught exception: XhrError
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1648453928010	geckodriver	INFO	Listening on 127.0.0.1:60427
+1648453928015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile2XBO6t"
+1648453928693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2XBO6t/search.json.mozlz4", (void 0)))
+1648453932135	Marionette	INFO	Listening on port 40557
+1648453932215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.zuar.com/, line 1378: TypeError: document.getElementById(...) is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1648490135938	geckodriver	INFO	Listening on 127.0.0.1:37987
+1648490136963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHAuaie"
+1648490139081	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHAuaie/search.json.mozlz4", (void 0)))
+1648490143632	Marionette	INFO	Listening on port 44215
+1648490143786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.zuar.com/, line 1378: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.zuar.com/js/script.min.js, line 1: TypeError: Rt.mfp is undefined
+JavaScript error: https://www.zuar.com/js/script.min.js, line 1: TypeError: $(...).slick is not a function
+JavaScript error: https://www.zontec-spc.com/, line 26: TypeError: el is null
