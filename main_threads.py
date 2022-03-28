@@ -66,7 +66,7 @@ def spreadsheet_companies(sheet_url, worksheet):
 
 def get_first_empty_index(l):
     for i in range(len(l)):
-        if l[i] == '' and l[i + 1] == '':
+        if l[i] == '' and l[i + 1] == '' or l[i] == 'Sorting':
             return i + 1
 
     return len(l) + 1
