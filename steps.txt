@@ -1,3 +1,0 @@
-install requirements
-add firefox to env path
-export TERM=xterm - for keyboard
