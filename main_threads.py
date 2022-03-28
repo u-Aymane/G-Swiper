@@ -84,8 +84,12 @@ def Tinder(choice, website, sheet_url, worksheet):
     for r in location:
         wk.update_cell(r.row, first_empty, choice)
 
+def surf(url):
+    driver.get(url)
+
 if __name__ == '__main__':
     driver = webdriver.Firefox(executable_path='./geckodriver')
+    os.system('clear')
     gsheet = input('Google Sheet URL (Make the sheet PUBLIC): ')
     worksheets = get_worksheets(gsheet)
     print('Please choose a number:')
@@ -100,7 +104,9 @@ if __name__ == '__main__':
             os.system('clear')
             print(f'Company name: {company}\n\n')
             print(f'Description: {description}')
-            driver.get(f"http://{website}")
+            T = threading.Thread(target=surf, args=[f"http://{website}"])
+            T.setDaemon(True)
+            T.start()
             c = input(f'\n\nKeep (Leave it blank) - Remove (Type r) and hit Enter: ')
             if c == "r":
                 T = threading.Thread(target=Tinder, args=['Remove', website, gsheet, worksheets[choice]])
