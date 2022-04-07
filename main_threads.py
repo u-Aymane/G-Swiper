@@ -15,12 +15,15 @@ def get_worksheets(sheet_url):
 
 
 def remove_duplicates(l):
-    temp = []
-    for i in l:
-        if i not in temp:
-            temp.append(i)
+    ans = [[], [], []]
+    dups = []
+    for i in range(0, len(l[0])):
+        if [l[0][i], l[1][i], l[1][i]] not in dups:
+            dups.append([l[0][i], l[1][i], l[1][i]])
+            for j in range(0, 3):
+                ans[j].append(l[j][i])
 
-    return temp
+    return ans
 
 
 def remove_checked_rows(l_lines, targeted_indexes):
@@ -56,11 +59,12 @@ def spreadsheet_companies(sheet_url, worksheet):
             t.append(-1)
 
     data = remove_checked_rows(wk.get_all_values(), t)
+    dups_removed = remove_duplicates(data)
 
     return {
-        "Websites": remove_duplicates(data[0])[1:],
-        "Companies": remove_duplicates(data[1])[1:],
-        "Description": remove_duplicates(data[2])[1:]
+        "Websites": dups_removed[0][1:],
+        "Companies": dups_removed[1][1:],
+        "Description": dups_removed[2][1:]
     }
 
 
